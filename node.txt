@@ -1,9 +1,5 @@
 #eddiehome
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@south.steamdownload.top:11006?allowInsecure=1&peer=datahk.steamdownload.top&tfo=1#%E9%A6%99%E6%B8%AF%2006
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@south.steamdownload.top:14001?allowInsecure=1&peer=datasg.steamdownload.top&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@east.steamdownload.top:15002?allowInsecure=1&peer=dataus.steamdownload.top&tfo=1#%E7%BE%8E%E5%9B%BD%2002
-ssr://eWQtMDUucGFvZnVubGluay5jb206MTA4MTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP3JlbWFya3M9NTc2TzVadTkmcHJvdG9wYXJhbT1Nak01TXpZNU9tZHJhbXgxWjNKdk1qUjAmb2Jmc3BhcmFtPU5XSTROR0l5TXprek5qa3ViV2xqY205emIyWjBMbU52YlE
-ssr://eWQtMDUucGFvZnVubGluay5jb206MTA3MTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6cGxhaW46WW5oemJuVmpjbWRyTm1obWFYTm8vP3JlbWFya3M9NVktdzVybS0mcHJvdG9wYXJhbT1Nak01TXpZNU9tZHJhbXgxWjNKdk1qUjAmb2Jmc3BhcmFtPU5XSTROR0l5TXprek5qa3ViV2xqY205emIyWjBMbU52YlE
 trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@163.123.192.33:443?peer=16-163-218-240.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
 trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@hinet.lxjc.app:443?peer=16-163-218-240.nhost.00cdn.com&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE
-ssr://Z3Vhbmd6aG91ZGRucy54eXo6MTE4MDQ6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8_cmVtYXJrcz1RbUhudm83bG03MCZwcm90b3BhcmFtPU1UTTJORGc2YUdsalpYTm9VWEpFUW5neVVWTjBWQSZvYmZzcGFyYW09WlRReFptUXhNelkwT0M1dGFXTnliM052Wm5RdVkyOXQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNTQzMjY1Zi0xYzI5LTQ5MGYtYTY2NC1lZjhlOTNlNTg5OGRAZG93bi5zYW5kYWkubmV0LmVlanNxLmNjOjI5MzAx#%E7%BE%8E%E5%9B%BD%2001
+vmess://YXV0bzo3YWJhMDgxYS04MWUwLTQzMmYtYjZhOS02ZTRlZDdiOTVmZWRAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD1%E5%8F%B7&obfsParam=us1.yfjc.sbs&path=/yfjc/us1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
