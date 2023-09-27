@@ -1,4 +1,5 @@
 #eddiehome
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODcwMDU0ZS0xYmI3LTQ3NGQtOWM0Mi0yMjQyN2M4MzZhNzZAc2VhMDEuamllZGlhbi5jeW91OjMzNzM4#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDS02-M
 trojan://d19afe78-70b9-4c86-8378-97c4134d318e@lbgd.bnnodeservice.com:32001?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-%E5%B9%BF
 trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@163.123.192.33:443?peer=16-163-218-240.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
 trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@hinet.lxjc.app:443?peer=16-163-218-240.nhost.00cdn.com&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE
