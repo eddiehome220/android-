@@ -6,3 +6,4 @@ vmess://YXV0bzo3ODcwMDU0ZS0xYmI3LTQ3NGQtOWM0Mi0yMjQyN2M4MzZhNzZAa3J2MDEuYmlncGlu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODcwMDU0ZS0xYmI3LTQ3NGQtOWM0Mi0yMjQyN2M4MzZhNzZAdXNzMDEuYmlncGluZ3MuY29tOjMyODM4#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDS01-M
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODcwMDU0ZS0xYmI3LTQ3NGQtOWM0Mi0yMjQyN2M4MzZhNzZAc2cwMi5iaWdwaW5ncy5jb206Mjk5OTM#%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8ES02-M
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjMwOGY4YzQzYWU3OGE3NzlmNQ@alibaba.cdn.03.servers.kunlunwq.com:45583?plugin=obfs-local;obfs=http;obfs-host=9fea73cf1ff6b5f1383a.microsoft.com;obfs-uri=/#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0085
+trojan://eacb9ed7-bec0-3bbf-90a0-2cc53c2c330d@relay.lalayun.cyou:33225?peer=de.lalayunssl.xyz#DE%E5%BE%B7%E5%9B%BD
