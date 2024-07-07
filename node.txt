@@ -1,2 +1,3 @@
 #eddiehome
+trojan://2547a002-774d-46d9-8f0e-cdf8800db56a@jp3.5c0eb4dd-16ab-d590-4c7d-d5c126585ad0.5584fc1f.the-best-airport.com:443?allowInsecure=1&peer=new.download.the-best-airport.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2003
 vmess://YXV0bzowODQyNjY0Ni03YzhiLTNhMzAtOGMzYS0zZDE5YmUwZDdlOWVAdHYzcC50bnRib29tcy5jb206NTEwMzI?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=10.5.95.5&path=/ttf&obfs=websocket&alterId=0
